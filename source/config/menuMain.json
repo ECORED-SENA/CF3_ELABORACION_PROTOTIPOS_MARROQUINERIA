@@ -1,0 +1,106 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","intro"],
+    "path": "pages/intro.html"
+  }, 
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "enhebrado_maquina",
+    "title": "1. Enhebrado de la máquina. ",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "bobina",
+    "title": "2. ¿Cómo colocar la caja bobina? ",
+    "breadcrumb": ["Inicio","Tema 2"],
+    "path": "pages/2-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "abrir",
+    "title": "3. Abrir costura. ",
+    "breadcrumb": ["Inicio","Tema 3"],
+    "path": "pages/3-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "montar",
+    "title": "4. Montar otra pieza. ",
+    "breadcrumb": ["Inicio","Tema 4"],
+    "path": "pages/4-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "devanar",
+    "title": "5. Devanar. ",
+    "breadcrumb": ["Inicio","Tema 5"],
+    "path": "pages/5-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "enhebrado",
+    "title": "6. Enhebrado de la máquina zigzag. ",
+    "breadcrumb": ["Inicio","Tema 6"],
+    "path": "pages/6-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "costura_en_zigzag",
+    "title": "7. Hacer costura en zigzag. ",
+    "breadcrumb": ["Inicio","Tema 7"],
+    "path": "pages/7-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "costura",
+    "title": "8. La costura según el diseño de la pieza. ",
+    "breadcrumb": ["Inicio","Tema 8"],
+    "path": "pages/8-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "costura",
+        "title": "8.1 Costura de manijas",
+        "anchor": "81"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "costura",
+        "title": "8.2 Costura del forro. ",
+        "anchor": "82"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "costura",
+        "title": "8.3 Costura de chapetas. ",
+        "anchor": "83"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "costura",
+        "title": "8.4 Cerrar la cartera. ",
+        "anchor": "84"
+      }
+    ]
+  }
+]
